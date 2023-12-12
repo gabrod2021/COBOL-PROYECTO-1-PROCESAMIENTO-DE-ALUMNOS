@@ -1,0 +1,17 @@
+======================================================================================
+Apellido y Nombre                        | Materia                        | Cantidad
+======================================================================================
+AGUILAR, JUAN                            | Química                        | 02
+ARAUJO, BRIEL KAELA                      | Inglés                         | 02
+CALENZANI, PIERO THOMAS                  | Física                         | 02
+CASO, DAVID ANGELO                       | Física                         | 02
+MANRIQUE, SUSAN CATHERINE                | Química                        | 01
+MANSILLA, LUCAS                          | Economía                       | 02
+MANTILLA, LIZET                          | Física                         | 02
+MEJORADA, BENITA                         | Inglés                         | 02
+MONTENEGRO, CHRISTINA DIANA              | Física                         | 02
+SOUQUON, ELENA REGINA                    | Economía                       | 02
+TACZA, DIEGO                             | Física                         | 02
+ZARZOSA, LUISA ESPERANZA                 | Matemáticas                    | 01
+ZUÑIGA, BRIANNA                          | Matemáticas                    | 02
+======================================================================================
